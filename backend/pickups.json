@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1776422204549,
+    "userId": 1,
+    "userName": "Mathesh Nadar",
+    "productName": "iPhone 15 Pro",
+    "predictedPrice": 49960,
+    "conditions": {
+      "turnsOn": true,
+      "screen": "perfect",
+      "body": "perfect",
+      "age": "more_than_2"
+    },
+    "conditionSummary": "TurnsOn: Yes, Screen: perfect, Body: perfect, Age: more_than_2",
+    "address": "ghhyliuhuhu",
+    "mobile": "9878657456",
+    "pickupDate": "2026-04-18",
+    "scheduledAt": "4/17/2026, 4:06:44 PM"
+  },
+  {
+    "id": 1776679771831,
+    "userId": 1,
+    "userName": "Mathesh Nadar",
+    "productName": "iPhone 15 Pro",
+    "predictedPrice": 124900,
+    "conditions": {
+      "turnsOn": true,
+      "screen": "perfect",
+      "body": "perfect",
+      "age": "under_1"
+    },
+    "conditionSummary": "TurnsOn: Yes, Screen: perfect, Body: perfect, Age: under_1",
+    "address": "kcgyugfflAJS",
+    "mobile": "8967856784",
+    "pickupDate": "2026-04-22",
+    "scheduledAt": "4/20/2026, 3:39:31 PM"
+  },
+  {
+    "id": 1776680636541,
+    "userId": 1,
+    "userName": "Mathesh Nadar",
+    "productName": "V20 SE",
+    "predictedPrice": 10000,
+    "conditions": {
+      "turnsOn": true,
+      "screen": "perfect",
+      "body": "perfect",
+      "age": "under_1"
+    },
+    "conditionSummary": "TurnsOn: Yes, Screen: perfect, Body: perfect, Age: under_1",
+    "address": "Jai Janta Nagar, Gautam Buddha Marg, Orlem Malad West, Mumbai 400064",
+    "mobile": "8678965748",
+    "pickupDate": "2026-04-22",
+    "scheduledAt": "4/20/2026, 3:53:56 PM"
+  },
+  {
+    "id": 1776682575905,
+    "userId": 1,
+    "userName": "Mathesh Nadar",
+    "productName": "iPhone 13",
+    "predictedPrice": 59900,
+    "conditions": {
+      "turnsOn": true,
+      "screen": "perfect",
+      "body": "perfect",
+      "age": "under_1"
+    },
+    "conditionSummary": "TurnsOn: Yes, Screen: perfect, Body: perfect, Age: under_1",
+    "address": "hggkdteryrz",
+    "mobile": "4567678967",
+    "pickupDate": "2026-04-24",
+    "scheduledAt": "4/20/2026, 4:26:15 PM"
+  },
+  {
+    "id": 1776684372192,
+    "userId": 2,
+    "userName": "Ehan",
+    "productName": "iPhone 14 Pro",
+    "predictedPrice": 61500,
+    "conditions": {
+      "turnsOn": true,
+      "screen": "scratches",
+      "body": "scratches",
+      "age": "2_years"
+    },
+    "conditionSummary": "TurnsOn: Yes, Screen: scratches, Body: scratches, Age: 2_years",
+    "address": "Mumbai",
+    "mobile": "7715975633",
+    "pickupDate": "2026-08-05",
+    "scheduledAt": "4/20/2026, 4:56:12 PM"
+  }
+]
